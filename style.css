@@ -1,0 +1,89 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: url(img/back2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+}
+.navbar{
+    background:red;
+}
+.nav-link:hover{
+    border: none;
+    border-bottom: 3px solid white;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+.book-list-container {
+    background: rgba(0, 0, 0, 0.3);
+    border: 2px solid;
+    border-radius: 20px;
+    width: 1300px;
+    height: 700px;
+    padding: 50px;
+}
+
+table.dataTable thead th, table.dataTable thead td, table.dataTable tfoot th, table.dataTable tfoot td {
+    text-align: center !important;
+}
+
+.table {
+    text-align: center !important;
+}
+
+td button {
+    font-size: 10px !important;
+}
+
+#borrowedTable {
+    font-size: 14px;
+}
+
+.container-header button {
+    float: right;
+}
+
+.modal-content {
+    background-color: rgb(90, 90, 90) !important;
+}
+
+.dataTables_wrapper {
+    height: 560px;
+    position: relative;
+}
+
+.dataTables_info {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.dataTables_paginate {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+option {
+    color: rgb(90, 90, 90) !important;
+}
+.nav-link:hover, .navbar-text:hover{
+    border: none;
+    border-bottom:3px solid white ;
+    }
+.w-50{
+    background: yellow;
+}
+#logout{
+    float: right;
+}

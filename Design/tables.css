@@ -1,0 +1,82 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+table {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 98%;
+    position: absolute;
+    left: 1%;
+    top: 10%;
+  }
+  
+table td, table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  table td button{
+    margin-left: 20%;
+  }
+table td a, table td button{
+    font-size: 20px;
+    float: left;
+    border: none;
+    background: none;
+    color: black;
+    padding-left: 15%;
+    padding-right: 15%;
+  }
+  
+table tr:nth-child(even){
+    background-color: #f2f2f2;
+}
+  
+  table tr:hover {
+    background-color: #ddd;
+}
+  
+  table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #00356B;
+    color: white;
+  }
+  
+.uholder{
+    width: 84%;
+    height: 88vh;
+    position: absolute;
+    top: 10%;
+    left: 15%;
+    border: 1px solid;
+    background: rgba(211, 211, 211, 0.678);
+  }
+  .button_hold{
+    width: 100%;
+    height: 5vh;
+    background: rgba(211, 211, 211, 0.678);
+    border: none;
+    border-bottom: 3px solid;
+  }
+  .button_hold h2{
+    position: absolute;
+    top: 1%;
+    margin-left: 2%;
+  }
+  .backbtn{
+    position: absolute;
+    top: 0%;
+    left: 88%;
+    width: 8%;
+    border-radius: 10%;
+}
+.backbtn button{
+    height: 5vh;
+    background: #00356B;
+    width: 100%;
+    color: white;
+    border: none;
+}

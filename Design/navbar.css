@@ -1,0 +1,123 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: #DADBDD;
+}
+.navbar{
+    width: 14%;
+    height: 100vh;
+    background:  #0C2340;
+    float: left;
+}
+.navbar button{
+    width: 100%;
+    height: 6vh;
+    margin-top: 6%;
+    font-size: 20px;
+    background: none;
+    color: white;
+    text-align: left;
+    padding-left: 20%;
+    border: none;
+}
+.navbar button:hover{
+    background:#00356B ;
+    
+}
+.logo_hold{
+    width: 100%;
+    height: 8vh;
+    background: #00356B;
+}
+.logo_hold img{
+    height: 6vh;
+    width: auto;
+    float: left;
+    padding-left: 2%;
+    padding-top: 2%;
+}
+.logo_hold h1{
+    padding-top: 5%;
+    padding-left: 1%;
+    font-size: 30px;
+    float: left;
+    color: white;
+}
+
+
+.navigation{
+    width: 84.7%;
+    height: 4vh;
+    background: rgba(255, 255, 255, 0.719);
+    float: left;
+    padding: 10px;
+    box-shadow: 0px 8px #05050511;
+
+}   
+.adl{
+    height: 5vh;
+    width: 15%;
+    position: absolute;
+    top: 1%;
+    left: 80%;
+}
+
+.dropbtn {
+    color: black;
+    height: 5vh;
+    width: 100%;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .dropbtn:hover, .dropbtn:focus {
+    background-color: #00356B;
+  }
+  
+.dropdown {
+    width: 100%;
+    position: relative;
+    display: inline-block;
+  }
+  
+.dropdown-content {
+    display: none;
+    position: absolute;
+    left: 70%;
+    background-color: #00356B;
+    min-width: 10%;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+.dropdown-content a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+.dropdown a:hover {
+    background-color: #050505c4;}
+  
+.show {display: block;}
+
+.output{
+    width: 100%;
+    height: 100vh;
+    background: rgba(185, 185, 185, 0.719);
+}
+.head1{
+    padding-top: 0.5%;
+    width: 50%;
+    background: red;
+    font-size: 20px;
+}
+.head1 a{
+    text-decoration: none;
+    color: black;
+}

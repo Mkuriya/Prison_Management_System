@@ -1,0 +1,136 @@
+
+.totalinmate{
+    background: #00356B;
+    box-shadow: -8px 19px 36px -7px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -8px 19px 36px -7px rgba(0,0,0,0.75);
+    -moz-box-shadow: -8px 19px 36px -7px rgba(0,0,0,0.75);
+    color: white;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    height: 30vh;
+    width: 12%;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 20px;
+}
+.totalvisitor{
+    background: #00356B;
+    box-shadow: -8px 19px 36px -7px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -8px 19px 36px -7px rgba(0,0,0,0.75);
+    -moz-box-shadow: -8px 19px 36px -7px rgba(0,0,0,0.75);
+    color: white;
+    position: absolute;
+    top: 20%;
+    left: 35%;
+    height: 30vh;
+    width: 12%;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 20px;
+}
+.totalcell{
+    background: #00356B;
+    box-shadow: -8px 19px 36px -7px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -8px 19px 36px -7px rgba(0,0,0,0.75);
+    -moz-box-shadow: -8px 19px 36px -7px rgba(0,0,0,0.75);
+    color: white;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    height: 30vh;
+    width: 12%;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 20px;
+}
+.totalprison{
+    background: #00356B;
+    box-shadow: -8px 19px 36px -7px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -8px 19px 36px -7px rgba(0,0,0,0.75);
+    -moz-box-shadow: -8px 19px 36px -7px rgba(0,0,0,0.75);
+    color: white;
+    position: absolute;
+    top: 20%;
+    left: 65%;
+    height: 30vh;
+    width: 12%;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 20px;
+}
+.totaladminacc{
+    background: #00356B;
+    box-shadow: -8px 19px 36px -7px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -8px 19px 36px -7px rgba(0,0,0,0.75);
+    -moz-box-shadow: -8px 19px 36px -7px rgba(0,0,0,0.75);
+    color: white;
+    position: absolute;
+    top: 55%;
+    left: 28%;
+    height: 30vh;
+    width: 12%;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 20px;
+}
+.totalassistantacc{
+    background: #00356B;
+    box-shadow: -8px 19px 36px -7px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -8px 19px 36px -7px rgba(0,0,0,0.75);
+    -moz-box-shadow: -8px 19px 36px -7px rgba(0,0,0,0.75);
+    color: white;
+    position: absolute;
+    top: 55%;
+    left: 43%;
+    height: 30vh;
+    width: 12%;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 20px;
+}
+.totaluseracc{
+    background: #00356B;
+    box-shadow: -8px 19px 36px -7px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -8px 19px 36px -7px rgba(0,0,0,0.75);
+    -moz-box-shadow: -8px 19px 36px -7px rgba(0,0,0,0.75);
+    color: white;
+    position: absolute;
+    top: 55%;
+    left: 58%;
+    height: 30vh;
+    width: 12%;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 20px;
+}
+.head_header{
+    
+    position: absolute;
+    top: 8%;
+    left: 14%;
+    width: 86%;
+    height: 6vh;
+    border: none;
+    border-bottom: 3px solid;
+}
+.head_header h2{
+    width: 30%;
+    height: 7vh;
+    font-size: 40px;
+    position: absolute;
+    top: 8%;
+    left: 2%;
+}
+#ct6{
+    margin-right: 2%;
+    margin-top: 1%;
+    float: right;
+    font-size: 30px;
+}
+h2{
+    position: relative;
+    top: 10%;
+    left: 30%;
+    color: white;
+}
